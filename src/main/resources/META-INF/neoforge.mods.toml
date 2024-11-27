@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+
+issueTrackerURL = "https://github.com/62832/PearlWithNoChunk/issues"
+displayURL = "https://curseforge.com/minecraft/mc-mods/pearl-with-no-chunk"
+logoFile = "icon.png"
+authors = "90"
+license = "MIT"
+
+[[mods]]
+modId = "pearlwithnochunk"
+version = "0.1"
+displayName = "Pearl With No Chunk"
+description = "Removes chunk-loading mechanics from Ender Pearls."
+
+[[mixins]]
+config = "pearlwithnochunk.mixins.json"
+
+[[dependencies]]
+modId = "minecraft"
+versionRange = "[1.21.3,)"

@@ -1,0 +1,5 @@
+{
+  "minVersion": "0.8.5",
+  "package": "gripe._90.pearlwithnochunk",
+  "mixins": ["ThrownEnderpearlMixin"]
+}

@@ -3,5 +3,5 @@
 Tiny\* utility mod that disables chunk loading for Ender Pearls in Minecraft 1.21.3 and beyond, should other
 conventional modded solutions for chunk-loading be preferred.
 
-*\*Literally only a single Mixin class. 99.9% of the final JAR's file size comes from the (dated and stupid joke) icon
-you see above.*
+*\*Literally only a single Mixin class. About 80% of the final JAR's file size comes from the (dated and stupid joke)
+icon you see above.*

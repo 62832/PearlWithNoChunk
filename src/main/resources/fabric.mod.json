@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pearlwithnochunk",
+  "version": "0.1",
+
+  "name": "Pearl With No Chunk",
+  "description": "Removes chunk-loading mechanics from Ender Pearls.",
+  "license": "MIT",
+  "icon": "icon.png",
+  "authors": ["90"],
+  "contact": {
+    "homepage": "https://curseforge.com/minecraft/mc-mods/pearl-with-no-chunk",
+    "sources": "https://github.com/62832/PearlWithNoChunk/",
+    "issues": "https://github.com/62832/PearlWithNoChunk/issues"
+  },
+
+  "mixins": ["pearlwithnochunk.mixins.json"],
+  "depends": {
+    "minecraft": ">=1.21.3"
+  }
+}

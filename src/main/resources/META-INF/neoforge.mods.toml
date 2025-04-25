@@ -16,6 +16,6 @@ description = "Removes chunk-loading mechanics from Ender Pearls."
 [[mixins]]
 config = "pearlwithnochunk.mixins.json"
 
-[[dependencies]]
+[[dependencies.pearlwithnochunk]]
 modId = "minecraft"
 versionRange = "[1.21.3,)"
